@@ -1,0 +1,51 @@
+<?php
+/**
+ * Plugin Name: post_numbers
+ * Plugin URI:  Plugin URL Link
+ * Author:      Plugin Author Name
+ * Author URI:  Plugin Author Link
+ * Description: This plugin does wonders
+ * Version:     0.1.0
+ * License:     GPL-2.0+
+ * License URL: http://www.gnu.org/licenses/gpl-2.0.txt
+ * text-domain: pn
+*/
+
+
+
+// function first_function($text){
+    
+//     // return $text;
+//     echo "print these one";
+// }
+// add_action("my_hooks", "first_function");
+// $a = do_action("my_hooks", "Text of all the word");
+// // echo $a;
+// // printf($a);
+
+
+// function First_function($texts){
+//     return $texts;    
+// }
+// add_filter('Custom_hook', 'First_function');
+// echo apply_filters('Custom_hook', 'None of the word');
+
+// function custom_function(){
+//     // echo "Print someting";
+// }
+
+// add_action('custom_hooks', "custom_function");
+// echo do_action('custom_hooks', "Doing someting action");
+
+
+
+
+
+
+
+
+
+
+
+
+?>
